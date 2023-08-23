@@ -1,5 +1,0 @@
-{{#Ravikant02022002}}
-Name: Ravikant 
-Skills: HTML, CSS, JS, react.js 
-Email: sharmaravikant02022002@gmail.com
-{{/Ravikant02022002}}
